@@ -1,0 +1,261 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The civil magistrates coercive power in religious matters asserted, in a sermon [on Matt. vii. 12] preached at the assizes at Hertford, March the 7th, 1683/4 by Ralph Battel ...</title>
+            <author>Battell, Ralph, 1649-1713.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1684</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 36 KB of XML-encoded text transcribed from 17 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A76116</idno>
+            <idno type="STC">Wing B1148A</idno>
+            <idno type="STC">ESTC R209185</idno>
+            <idno type="EEBO-CITATION">38875580</idno>
+            <idno type="OCLC">ocm 38875580</idno>
+            <idno type="VID">152195</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A76116)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 152195)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2283:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The civil magistrates coercive power in religious matters asserted, in a sermon [on Matt. vii. 12] preached at the assizes at Hertford, March the 7th, 1683/4 by Ralph Battel ...</title>
+                  <author>Battell, Ralph, 1649-1713.</author>
+               </titleStmt>
+               <extent>[4], 28 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by R.E. for Walter Kettilby ... in St. Paul's Church-yard, and J. Jones ... in Worcester,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1684.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: stained.</note>
+                  <note>Reproduction of original in: William Andrews Clark Memorial Library, University of California, Los Angeles.</note>
+                  <note>Includes bibliographical references in marginal notes.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  N.T. --  Matthew VII, 12 --  Sermons.</term>
+               <term>Church and state --  England.</term>
+               <term>Assize sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-12</date>
+            <label>Leah Yurasek</label>Sampled and proofread</change>
+         <change>
+            <date>2012-12</date>
+            <label>Leah Yurasek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:152195:1" rendition="simple:additions"/>
+            <p>THE CIVIL MAGISTRATES <hi>Coercive Power</hi> IN RELIGIOUS MATTERS ASSERTED, IN A SERMON Preached at the ASSIZES AT HERTFORD, <hi>March</hi> the 7th, 1683/4.</p>
+            <p>By <hi>Ralph Battel,</hi> M. A. Chaplain in Ordinary to His MAJESTY, and Prebendary of <hi>Worceſter.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>R. E.</hi> for <hi>Walter Kettilby,</hi> at the <hi>Biſhops-Head</hi> in St. <hi>Paul's</hi> Church-yard, and <hi>J. Jones</hi> Book-ſeller in <hi>Worceſter,</hi> 1684.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:152195:2"/>
+            <pb facs="tcp:152195:2"/>
+            <head>To the Right Worſhipful Sir <hi>THOMAS FIELD.</hi> High Sheriff And one of His Majeſties <hi>Deputy Lieutenants.</hi> AND Juſtices of the Peace For the County of HERTFORD: And to all the reſt of his Majeſties truly Loyal Deputy Lieutenants, and Juſtices of the Peace for the ſaid County.</head>
+            <opener>
+               <salute>Gentlemen,</salute>
+            </opener>
+            <p>ALtho' the Conſideration of my own Inſufficiency makes me unwil<g ref="char:EOLhyphen"/>ling to appear in Print, yet I will not refuſe to Obey your
+<pb facs="tcp:152195:3"/>Commands in the Publiſhing this Diſcourſe. Which if it may be of any, tho' but the leaſt Service to the Government, (the Vindication of which is my Principal De<g ref="char:EOLhyphen"/>ſign) I ſhall not concern my ſelf for the Obloquies of ſuch as will be offended with my Doctrine, eſpecially I need not, when coun<g ref="char:EOLhyphen"/>tenanc'd and protected by you, and, Gentlemen, that God will long preſerve and proſper you for the Service of your King and Country is, and ſhall be the Hearty Prayer of</p>
+            <closer>
+               <signed>
+                  <hi>Your Obedient Servant,</hi> Ralph Battel.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:152195:3" rendition="simple:additions"/>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>Matth. VII. 12.</hi>
+                  </bibl>
+                  <p>Therefore all things whatſoever ye would that Men ſhould do unto you, do ye even ſo to them: For this is the Law and the Prophets.</p>
+               </q>
+            </epigraph>
+            <p>THE Words are a part of our Savi<g ref="char:EOLhyphen"/>our's Sermon upon the Mount. Their Dependance, or Connexi<g ref="char:EOLhyphen"/>on, <hi>Muſculus</hi> refers to the firſt verſe of the Chapter, <hi>judge not, that ye be not judg<g ref="char:EOLhyphen"/>ed.</hi> But St. <hi>Chryſoſtom</hi> applies it rather to the Promiſe made <hi>ver.</hi> 9. <hi>You ſhall receive from God what you ask, upon Condition, that you do unto others, what you would that they ſhould do unto you.</hi> But the Coherence is not ſo material to be known, as the Senſe and Purport of the Rule is neceſſary to be un<g ref="char:EOLhyphen"/>derſtood, which therefore I will enquire into, and endeavour,
+<pb n="2" facs="tcp:152195:4"/>
+               <list>
+                  <item>Firſt, To explain: And,</item>
+                  <item>Secondly, To apply.</item>
+               </list>
+            </p>
+            <p>Now for the due Explication of this Rule, ſeveral things are to be conſidered. And,</p>
+            <p>Firſt, We are to take notice, That this is no univerſal Rule for all our Actions, 'tis not ſo Comprehenſive as to take in the whole Religion; or, as the <hi>Schoolmen</hi> call it, the <hi>to<g ref="char:EOLhyphen"/>tum jus naturale,</hi> but only the ſecond Table of the <hi>Decalogue,</hi> that which contains our Duty towards our Neighbour. This Ap<g ref="char:EOLhyphen"/>peal to our own Conſcience is indeed a fit<g ref="char:EOLhyphen"/>ting and a full direction to us upon all Occaſions, how we ought to deal by our Brethren: but it were too great a Pre<g ref="char:EOLhyphen"/>ſumption, (although but barely in thought) to ſet our ſelves in God's place, or meaſure out our Obedience to him, from what we ſhould expect from our Creatures, if we were able to Create them. For we muſt not thus put our ſelves upon the level of a Compa<g ref="char:EOLhyphen"/>riſon with Almighty God, or preſume to ſay, what we would do, if we were like him; nor is it poſſible, that, if we did, our Judgment
+<pb n="3" facs="tcp:152195:4" rendition="simple:additions"/>could come near the Truth, unleſs our Wiſ<g ref="char:EOLhyphen"/>dom were alſo equal unto his; but as High as the Heaven is from the Earth, ſo far are his Thoughts above our Thoughts. There is an immenſe Gulf between finite and in<g ref="char:EOLhyphen"/>finite Wiſdom, and to him that thinks God altogether ſuch a one as himſelf,<note place="margin">Pſ. 50, 21.</note> the <hi>Pſal<g ref="char:EOLhyphen"/>miſt</hi> anſwers, <hi>but I will reprove thee, and ſet before thee the things which thou haſt done.</hi>
+            </p>
+            <p>Gods Revealed Will is the Truth which we ought to believe, and the Rule by which we are to walk, and altho' indeed there is no one jot or tittle of that contrary to right Reaſon, yet ſome evilly luxuriant Wits, have framed falſe Deſcants upon it, and ſome ſenſual Minds have argued de<g ref="char:EOLhyphen"/>ceitfully and according to their own Luſts; but of ſuch Deceivers we muſt beware. We ought not to meaſure Gods Mercies by the ſtandard of our own kindneſs, without a ſtrict regard to his revealed Will; in ſo doing, we may be apt to ſpeak <hi>per<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>erſly for God.</hi> And thus <hi>Origen,</hi> and others have done, who, out of an exceſs perhaps of good Na<g ref="char:EOLhyphen"/>ture, thought that God would one Day put a period to the Torments of Hell, altho' the
+<pb n="4" facs="tcp:152195:5"/>Scripture does expreſly tell us, they are Eternal. But all that can be applied lawfully to God Almighty from this Rule, is only this; That as we deſire, and ſtand in need of his Mer<g ref="char:EOLhyphen"/>cies, ſo we ſhould alſo ſhew the like Mercy, (as far as in us lyes) towards our Brethren. And thus doing we may juſtly hope in his Mer<g ref="char:EOLhyphen"/>cy, and in his revealed Promiſe,<note place="margin">Matth. 6.14.</note> 
+               <hi>that he alſo will forgive us ours, as we forgive men their Treſpaſſes.</hi>
+            </p>
+            <p>Secondly, As this Rule is not univerſal in regard of the Law of God, ſo neither is it pri<g ref="char:EOLhyphen"/>mary: 'Tis a Copy, but not an Original; for the Law of God, the ſecond Table in the <hi>Deca<g ref="char:EOLhyphen"/>logue,</hi> ought to be taken for the Ground of this; and not this, for the foundation of that; this may ſerve well indeed to explain a Di<g ref="char:EOLhyphen"/>vine Precept, or to accommodate it the bet<g ref="char:EOLhyphen"/>ter to our underſtanding and practice, by bringing it nearer to our Heart and Affecti<g ref="char:EOLhyphen"/>ons, but it muſt not Impugn (any) the leaſt Commandment; that which was only given as an e<gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>rcement of the Law, muſt by no means obſtruct it; all Sin therefore and Wickedneſs, of what kind ſoever it be, is at infinite diſtance from this Rule of God<g ref="char:EOLhyphen"/>lineſs:</p>
+            <pb n="5" facs="tcp:152195:5"/>
+            <q>Procul hinc, procul ite, profani.</q>
+            <p>This is a Touch-ſtone, or rather a Whet<g ref="char:EOLhyphen"/>ſtone for Vertue, but it blunts and breaks the Edge of Vice. Otherwiſe, the Unclean and the Senſual might take their Paſtime together, be Prophane and Diſſolute, and corrupt one another by a confederacy of Sinning, a like proportion of Vicious incli<g ref="char:EOLhyphen"/>nation, and all this while do by each other as they moſt Deſire to be done by: But what communion hath Light with Dark<g ref="char:EOLhyphen"/>neſs? do therefore unto others, only what you may Lawfully and Honeſtly deſire to be done unto; what is agreeable to the Law of God, and the Principles of right Reaſon, and the known Rules of Vertue, what is Pure, and Juſt, and Charitable; this is ano<g ref="char:EOLhyphen"/>ther Qualification of this Rule, without which it were not ſo much an Engagement to Goodneſs, as a Licenſe to all impurity, where<g ref="char:EOLhyphen"/>ever the Subjects were mutually diſpoſed to one, above the other. But our Saviour's ap<g ref="char:EOLhyphen"/>plying of this to the <hi>Law and the Prophets</hi> (of which only 'tis a compendious expoſition) reſtrains it ſtrictly to Vertue and Piety, to ſuch
+<pb n="6" facs="tcp:152195:6"/>things as the Law of God does warrant and allow, or require us to perform.</p>
+            <p>Thirdly, This Rule does not oblige us otherwiſe than with a reſpect to the diffe<g ref="char:EOLhyphen"/>rent Stations and Conditions of Life, in which by Providence we are placed. For the So<g ref="char:EOLhyphen"/>veraign is not to pay Tribute to the Sub<g ref="char:EOLhyphen"/>ject, becauſe he requires it from him; nor the Maſter to wait upon his Servant, be<g ref="char:EOLhyphen"/>cauſe his Servant tends upon him; for ſo <hi>Solomon's Evil</hi> would be dayly viſible, <hi>Servants upon Horſes,</hi>
+               <note place="margin">Eccl. 10.5.</note> 
+               <hi>and Princes walking as Servants upon the Ground.</hi> But herein lies the Obligation, this Rule enjoyns the ſame things proportiona<g ref="char:EOLhyphen"/>bly, as we would have any behave them<g ref="char:EOLhyphen"/>ſelves; as Servants ought to do, if Servants, ſo muſt we demean our ſelves as Maſters, if we are Maſters: And as we would have any demean themſelves as Maſters, ſo muſt we behave our ſelves as Servants, if we are Servants. Or elſe it enjoyns the ſame Works conditionally, namely, if we were in their circumſtances, and they in ours. Thus Prin<g ref="char:EOLhyphen"/>ces muſt Protect their Subjects, and preſerve all their juſt Rights and Priviledges, as they would deſire to be protected and emanci<g ref="char:EOLhyphen"/>pated,
+<pb n="7" facs="tcp:152195:6"/>if they were Subjects: And Subjects muſt honour their Prince, and obey his Laws, and be content to ſupport the expence and Grandure of the Government, as they would deſire to be honour'd, obey'd, and ſuppor<g ref="char:EOLhyphen"/>ted, if they were Princes. Parents and Children, Maſters and Servants, Magiſtrates and Pri<g ref="char:EOLhyphen"/>vate men, the Governours and the Gover<g ref="char:EOLhyphen"/>ned, all Relations and Conditions of Mèn muſt behave themſelves in ſuch manner one towards another, as if the Scene were chan<g ref="char:EOLhyphen"/>ged, and the Condition of the one Party made that of the other alternately.</p>
+            <p>Now in this conſideration, more eſpecially, lies the peculiar excellence of this Rule, if loving our Brethren be an Effect of the Love of God in our Hearts (as <hi>St. John</hi> tells us,<note place="margin">1 <hi>John.</hi> 4.7.</note> it is) then how well does this Precept tend to build us up in this Love? when even the tender Principle of ſelf-love is here made the ſtock upon which we ought to graft Charity to others. And ſure we could not ordinarily nor eaſily trangreſs the Bounds of Juſtice, and Honeſty, and Charity, if we would but thus look into our own Hearts and Conſciences, and enquire, would we be content to be thus dealt with our ſelves, if
+<pb n="8" facs="tcp:152195:7"/>we were under the like circumſtances? If not, why are we thus Rigorous to thoſe who are our Brethren, to thoſe who are made of the ſame Fleſh and Blood, deſcended from one and the ſame common Parent originally and (within the Pale of Chriſtianity) united to one and the ſame Head, Chriſt Jeſus, My<g ref="char:EOLhyphen"/>ſtically and Spiritually?</p>
+            <p>Fourthly, To this I muſt add farther, That this Rule is not to be underſtood particu<g ref="char:EOLhyphen"/>larly with regard to a mans private or ſin<g ref="char:EOLhyphen"/>gle Humour or Temper, but generally with reſpect to the common deſires of Mankind. <hi>Whatever ye would that men ſhould do unto you, do ye the ſame unto them;</hi> that is, do as moſt Men do naturally and ordinarily deſire to be done by: For inſtance; the Poor do for the moſt part deſire Releif from the Rich, and 'tis natural and reaſonable for them ſo to do; therefore no Rich Man can with reaſon be excuſed from contributing towards the Poor mans needs, altho' perhaps he is of ſo ſtately a Temper, that he would ſcorn to ask relief from another Man, if he were in great neceſſity. But 'tis not in theſe Caſes the private Sentiments of a particular man,
+<pb n="9" facs="tcp:152195:7"/>or the Vote of a few, that is to be obſer<g ref="char:EOLhyphen"/>ved, but the general Inſtinct of Nature; what is moſt commonly ſeen, or what may moſt rationally be ſuppoſed, might be deſired by other men, if they were in Low Conditi<g ref="char:EOLhyphen"/>on, and we in High, even ſo muſt we deal by them.</p>
+            <p>Fifthly, There is but one Particular more, to which it remains that I ſhould ſpeak in the Explication of this Rule, which will lead me to the Application of it, indeed the thing I chiefly deſigned in this Diſcourſe: The laſt particular is, that, as this Rule is always to be underſtood according to the Judgment of Chriſtian Diſcretion, ſo that Judgment does belong rather to the Superior, than the In<g ref="char:EOLhyphen"/>ferior; to the Parent who is of due Age, and ripe Reaſon, rather than to the Child in his minority; to the ſupream Government of any Nation, rather than to the Common People. Here is therefore no room for any Private man to cenſure the Laws of the State, becauſe he does not think them ſuited ſo well to his own Condition, as they might have been. For it is true indeed, that Go<g ref="char:EOLhyphen"/>vernours neither can, nor ought to have an
+<pb n="10" facs="tcp:152195:8"/>Eye to the conveniences of particular men (diſtinctly ſpeaking) or perhaps of a few So<g ref="char:EOLhyphen"/>cieties; but they muſt conſult the Publick good. And doubtleſs there has never been any Government upon Earth, where ſome men have not thought themſelves aggrieved, or perhaps have not really been ſo by ſome Laws. But what then? muſt they preſently reflect upon their Law-makers for dealing uncharitably by them, and tranſgreſſing this Rule of my Text? Surely no; for then fare<g ref="char:EOLhyphen"/>wel all Government, ſince there can be none free from the Exceptions of ſome: But ſuch as theſe ought to conſider rather the many Priviledges they enjoy from Govern<g ref="char:EOLhyphen"/>ment in General, and that ſhould make them willing to ſubmit to ſome Inconveniences, for the ſake of greater Advantages; and ſuch as will not quietly obey the Laws, where they conduce to the good of the Na<g ref="char:EOLhyphen"/>tion, have as little reaſon to reap any Be<g ref="char:EOLhyphen"/>nefit from them, where they tend to their own Particular good. If a Factious and Schiſmatical Malecontent, (for uſually they go together) ſhall repine, that the Crown or Church Lands are taken from him by the Law, and ſtill be reſtleſs, and ever watching
+<pb n="11" facs="tcp:152195:8"/>an opportunity to unhinge all again: has he not much more reaſon to thank the Mercy of one of the moſt Gracious Princes that ever lived, that he ſtill enjoys his Life, and Liberty, and all his Lawful Acquiſitions, (and might I not ſay too, many of his un<g ref="char:EOLhyphen"/>lawful ones alſo,) and ought not his Grati<g ref="char:EOLhyphen"/>tude for theſe make him live Peaceably un<g ref="char:EOLhyphen"/>der that Government that defends him, how little ſoever he deſerves it; he may do well to conſider, that Lawful powers have been more Merciful to him, than ever his Un<g ref="char:EOLhyphen"/>lawful ones were to him; they have not done by him, as they were done by them<g ref="char:EOLhyphen"/>ſelves; Plunder'd, Sequeſtred, Impriſon'd, Slaughter'd, and torn him up Root and Branch; but I may truly ſay, they have, exceeding this Rule of the Text, they have not done by him as he well deſerved, or as He Rationally might have expected to have been dealt with, or as Chriſti<g ref="char:EOLhyphen"/>anity in ſuch Publick Caſes would have juſtified and allowed: 'Tis well, if he im<g ref="char:EOLhyphen"/>prove this Mercy, but we have ſeen but bad ſigns of it of late. And yet, alas, his cry of Perſecution is now as Loud, upon the neceſſary Execution of a few Penal Laws, as
+<pb n="12" facs="tcp:152195:9" rendition="simple:additions"/>well to ſecure the Government of the Church from his farther Encrochments, as if the Dra<g ref="char:EOLhyphen"/>gon in the <hi>Revelations</hi> were devouring the young Child again; when God knows how little only there was wanting, but that he had once more laid his Prophane and Sacri<g ref="char:EOLhyphen"/>legious Hands upon the Crown, and the Church, and all that were Loyal, and Or<g ref="char:EOLhyphen"/>thodox, and Friends to either.</p>
+            <p>Wherefore I will proceed in the next place to apply this Rule, with an Eye to the wholeſome Execution of Laws, and in aſſerting the Civil Magiſtrates Power even in Religious Matters, which yet ſo many are unwilling to hear of, and think they are hardly dealt with, in not being left to themſelves, in all things relating to Religion at leaſt, whatever Laws are made about other things. But I hope I ſhall be able to Juſtifie our Governours as to that point alſo, and ſhew that nothing is done by them but what may both Religiouſly and Lawfully be put in practice, any thing in this Rule of the Text notwithſtanding.</p>
+            <p>The Excellent <hi>Lord Verulam</hi> obſerved long ago in his <hi>Eſſays,</hi> 
+               <q>That as a Wound or the Solution of Continuity, (as he calls it) is more dangerous to the Natural Body than
+<pb n="13" facs="tcp:152195:9"/>a corrupt Humour, ſo are Schiſms and Fa<g ref="char:EOLhyphen"/>ctions to the Body Politick.</q>
+            </p>
+            <p>Other Vices may indeed call down a Judg<g ref="char:EOLhyphen"/>ment from above upon any Government, that ſhall indulge and tolerate them, but theſe do nothing elſe here below but contrive continually how to Subvert and Under<g ref="char:EOLhyphen"/>mine all Government; and yet the Myſtery is, that they, who are this way moſt concern'd, are for the King all this while, or would be thought to be ſo; even juſt as ſome Pra<g ref="char:EOLhyphen"/>ctical Atheiſts do upon occaſion ſometimes own Religion with their Mouths, and yet deny it daily in all their Actions, ſo theſe men are for the King too in their preten<g ref="char:EOLhyphen"/>ſions, and yet Oppoſe him in all his Mea<g ref="char:EOLhyphen"/>ſures, in all his Friends, and in all his In<g ref="char:EOLhyphen"/>tereſts.</p>
+            <p>And now, does this look ſo much like Re<g ref="char:EOLhyphen"/>ligion, as perfect Combination againſt the Government, which indeed they have awa<g ref="char:EOLhyphen"/>kened to defend it ſelf againſt their reſtleſ<g ref="char:EOLhyphen"/>neſs, by the ſeaſonable Execution of Laws, which is nothing but what is Juſt, and Rea<g ref="char:EOLhyphen"/>ſonable, no ways tranſgreſſing this Rule of my Text, but rather Prudently exerting it; no ways bordering upon Perſecution or Ir<g ref="char:EOLhyphen"/>religion,
+<pb n="14" facs="tcp:152195:10"/>but tending to confirm and ſtrengthen the true Church of God. For that Hereticks and Schiſmaticks ought to be re<g ref="char:EOLhyphen"/>ſtrained by the Temporal Powers, is nothing but what is
+<list>
+                  <item>Firſt, Founded in Reaſon.</item>
+                  <item>Secondly, May be proved from Scrip<g ref="char:EOLhyphen"/>ture.</item>
+                  <item>Thirdly, Agrees with Practice of Anti<g ref="char:EOLhyphen"/>quity.</item>
+               </list>
+            </p>
+            <p>Firſt, It is founded in Reaſon, That the Supream Temporal Power ſhould have a right to ſuppreſs all the Errours in Religi<g ref="char:EOLhyphen"/>on, for elſe they would be defective in a neceſſary part of their Life and Conſtitution, it were otherwiſe impoſſible to hold the Rein ſteddy, or keep the People in due Sub<g ref="char:EOLhyphen"/>jection: For whatever other bonds of Go<g ref="char:EOLhyphen"/>vernment there may be, there is none ſo good as Religion, and if you cannot pre<g ref="char:EOLhyphen"/>vail with men to be <hi>ſubject for Conſcience ſake as well as for Fear,</hi> i. e. for fear of Men; It will be hard to lay the Foundations of a laſting Peace in any Place, where there are either Bold, or Ambitious, or Politick
+<pb n="15" facs="tcp:152195:10"/>Men to be found: And ſo by conſequence there would be no Government upon Earth, but what would be as changeable as the Winds and Seas, with which the <hi>Pſalmiſt</hi> ſometimes conjoyns <hi>the Madneſs of the Peo<g ref="char:EOLhyphen"/>ple.</hi>
+               <note place="margin">Pſ. 65.7.</note>
+            </p>
+            <p>Again, as Religion is the beſt Bond of Government, ſo the Pretence of it is alſo the moſt Fatal and Ruinous to every Com<g ref="char:EOLhyphen"/>munity or Society, no Commotions in the Common Wealth are ſo Sharp, ſo Dange<g ref="char:EOLhyphen"/>rous, and ſo Inteſtine, as thoſe that are ſet a Foot under the Colour of Religion; al<g ref="char:EOLhyphen"/>moſt all Ages and Places would afford us Examples of this Nature, but I need not go beyond the bounds of our own Time and Country for them; we our ſelves have ſeen one of the moſt Unnatural and Bloody Wars, that ever was in the World, begun, carrried on, (and by Gods Permiſſion, as a Puniſhment for our Sins) Crowned with Suc<g ref="char:EOLhyphen"/>ceſs; and all under the Banner of Hypocri<g ref="char:EOLhyphen"/>ſie, entitled Religion, <hi>or the Devil transformed into an Angel of Light.</hi> And is it not then needful that the Magiſtrate ſhould have a Right to ſuppreſs the Pernicious Doctrines of Atheiſts, or Hypocrites, and Enthuſiaſts pre<g ref="char:EOLhyphen"/>tending
+<pb n="16" facs="tcp:152195:11"/>to Religion to the diſturbance of Hu<g ref="char:EOLhyphen"/>mane Society, and to withold, or reclaim ſuch as they would otherwiſe continually ſeduce?</p>
+            <p>But ſhould not Religion be our Voluntary Service? does not God require the Heart, and where that is wanting is it any better than Hypocriſie?</p>
+            <p>This may be granted, and more alſo, and yet the Truth of what I have aſſerted will ſtand firm. 'Tis true indeed, that Religion is of no Value unleſs it be ſincere, yea it is farther true, that Religion (properly ſpeaking) cannot be forced, that is to ſay, as to its inward Act, and it were vain and foolliſh for any one to attempt to go about it by Pure and meer Compulſion; but yet will it not follow, that all Compulſion in order to Reli<g ref="char:EOLhyphen"/>gion, is either Unprofitable, or Unlawful: for Opportunity, and the uſe of Means, do ma<g ref="char:EOLhyphen"/>ny times prevail at length, to perform what they could not bring about at firſt. And 'tis both Prudent and Reaſonable, that Men ſhould be brought to uſe ſuch Means as may inform them, and bring them out of Error. And I am confident, that there are many Thouſands in this Realm, that owe their Se<g ref="char:EOLhyphen"/>paration from the Church of <hi>England</hi> to no<g ref="char:EOLhyphen"/>thing
+<pb n="17" facs="tcp:152195:11"/>elſe, but the Neglect of Hearing what they might hear, and learning what they might be taught, which Leſſons, if recei<g ref="char:EOLhyphen"/>ved with a Meek and Humble Heart, might be an effectual means to bring them into the Boſom of the Church again.</p>
+            <p>But oh, will you force the Conſcience? is not every man obliged to follow that, and does not he ſin, that tranſgreſſeth its Dictates at any time?</p>
+            <p>Granting this to be alſo true, that every man ſins, who does not follow his Conſci<g ref="char:EOLhyphen"/>ence. I moreover aſſert, that every man ſins who follows it in Oppoſition to the Law of God, or to the Law of Man, when it com<g ref="char:EOLhyphen"/>mands nothing, that is Oppoſite to the Law of God. And therefore, they who tranſgreſs the Publick Injunctions of the Magiſtrate, upon ſuſpicion only of Evil, are taken in their own Fear, and certainly do Evil in endea<g ref="char:EOLhyphen"/>vouring to avoid it; if it be ſo, that 'tis really a Scruple of Conſcience, and not a ſtubborn<g ref="char:EOLhyphen"/>neſs in their Will, that is the ground of their Diſobedience? And therefore, if the Magi<g ref="char:EOLhyphen"/>ſtrate compel an Erroneous Conſcience in this Caſe, ſo far as to make it Enquire and Learn better, what it ought to Believe and
+<pb n="18" facs="tcp:152195:12"/>Practiſe, 'tis no leſs than a great Piece of Charity in him; for he only forces the Man out of a perplexity, which if he eſcape by this means, he is free from the Snare of Sin; but if he eſcape not, he is in no worſe Con<g ref="char:EOLhyphen"/>dition than he was before.</p>
+            <p>Secondly, As Reaſon requires this, ſo the Scripture, both by Examples and Precepts, ſets forth the fitneſs of ſome reſtraints in theſe Caſes. <hi>Nebuchadnezzer,</hi> when he was conver<g ref="char:EOLhyphen"/>ted by the Miraculous eſcape of the Three Children out of the Fiery Furnace,<note place="margin">Dan. 3.29.</note> 
+               <hi>made a Law, that every People, Nation, and Language, that ſhould ſpeak any thing amiſs againſt the God of</hi> Shadrack, Meſheck, <hi>and</hi> Abednego, <hi>ſhould be cut in pie<g ref="char:EOLhyphen"/>ces, and their houſes made a dunghil.</hi> This was a high Puniſhment, but ſo was the Offence, ye will ſay, even Blaſphemy againſt God. I ſhall mention ſome of a leſſer Degree. We read of <hi>Artaxerxes,</hi>
+               <note place="margin">Ezra. 7.26.27.</note> and the Text tells us, that God put it into his Heart to make an E<g ref="char:EOLhyphen"/>dict, <hi>that whoſoever would not do the Law of his God, or the Law of the King, ſhould have Judgment Executed ſpeedily upon him, whether it were by Death, or by Baniſhment, or by Con<g ref="char:EOLhyphen"/>fiſcation of Goods or by Impriſonment.</hi> And yet
+<pb n="19" facs="tcp:152195:12"/>it was only concerning the Religious Wor<g ref="char:EOLhyphen"/>ſhip of God, and the Beautifying of the Tem<g ref="char:EOLhyphen"/>ple, that this Edict was put forth.<note place="margin">2. Kin. 18.4.</note> 
+               <hi>Hezechi<g ref="char:EOLhyphen"/>ah</hi> reformed Religion, <hi>removed the high Pla<g ref="char:EOLhyphen"/>ces, broak the Images, and cut down the Groves. And we read more particularly of</hi> Joſiah, <hi>that he took away all the abominations, out of all the Countryes that appertained to the Children of</hi> Iſrael,<note place="margin">2. Chron. 34.33.</note> 
+               <hi>and made all that were found in</hi> Iſrael <hi>to ſerve the Lord their God. Joſiah</hi> did this agreeably to the Moral Law, which binds Magiſtrates ſtill under the Goſpel by vertue of that Precept,<note place="margin">Mat. 22.37.</note> of <hi>loving the Lord with all their hearts.</hi> But if any ſhal ſtill object, it is not now the temper of the Goſpel to compel Re<g ref="char:EOLhyphen"/>ligion, let me tell ſuch, that 'tis alſo agreeable to the new Teſtament to compel men to come to Church, and to hear Gods word, and receive the Sacraments, which are the External acts of Religion, and all indeed that can be com<g ref="char:EOLhyphen"/>pelled. Now <hi>St. Auguſtine</hi> proves this from the Parable recorded by <hi>St. Luke,</hi>
+               <note place="margin">Luke. 14.23.</note> 
+               <hi>of a King who made a great Supper, and when they made excuſe, he ſaid to his Servants, go to the high ways and hedges, and compel them to come in, that my houſe may be filled.</hi> Where it is remarkable what <hi>St. Matthew</hi> ob<g ref="char:EOLhyphen"/>ſerves from the ſame Parable, that notwith<g ref="char:EOLhyphen"/>ſtanding
+<pb n="20" facs="tcp:152195:13"/>many of theſe came at firſt involun<g ref="char:EOLhyphen"/>tarily (as it ſhould ſeem,<note place="margin">
+                  <hi>Mat.</hi> 22.12.</note>) yet it proved ſucceſ<g ref="char:EOLhyphen"/>ful afterwards to the greateſt part, for we read but of one, that was caſt out for want of a Wedding Garment. <hi>Some we muſt ſave,</hi> St. <hi>Jude</hi> tells us,<note place="margin">ver. <hi>23.</hi>
+               </note> 
+               <hi>by fear, even pulling them out of the fire;</hi> and St. <hi>Paul,</hi> when the <hi>Corinthians</hi> grew too exorbitantly licentious,<note place="margin">1. Cor. 4.21. Eph. 3.9.</note> threatens to <hi>come to them with a rod.</hi> In like manner alſo, St. <hi>John</hi> threatens <hi>Diotrephes.</hi> Chriſt in the beginning of his Religion was in ſtead of a Temporal Magiſtrate, and whomſoever the Apoſtles did worthily caſt out, over them he gave Satan power,<note place="margin">1. Cor. 5.5.</note> 
+               <hi>for the deſtruction of the fleſh, that their ſpirit might be ſaved in his day.</hi> 
+               <q>The power which he did then extraordinarily execute, was in the Princes of the Earth by right of their Dominion and Sovereignty, but they wanted his Grace, and would not make uſe of it, and therefore all this while Chriſt by Miracle ſupported his Church, and made it grow up in ſpite of Perſecution, and when he had done this long enough, to prove that his Religion came from God, then he called the Princes into the houſe of<note n="*" place="margin">Athanaſius Serm. de B. Virg. <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</note> 
+                  <hi>Jacob.</hi>
+               </q> And the power of the Magiſtrate is (now that Miracles
+<pb n="21" facs="tcp:152195:13"/>are ceaſed) become a part of that Rod, which St. <hi>Paul</hi> mentions, and both may and ought by Temporal Puniſhments to ſtrengthen the Spiritual Authority of the Church; and for this alſo we have</p>
+            <p>Thirdly, The verdict of Anti<g ref="char:EOLhyphen"/>quity, for thus <hi>Socrates Scholaſti<g ref="char:EOLhyphen"/>cus</hi> expreſſes the Queſtion,<note n="*" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> when once the Emperors became Chri<g ref="char:EOLhyphen"/>ſtians, the Church was ſubject to them. Hence thoſe expreſſions of Antiquity, calling Kings <hi>God</hi>'s <hi>Vice-gerents, the Governours of true Religi<g ref="char:EOLhyphen"/>on,</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. <hi>the Captains and Condu<g ref="char:EOLhyphen"/>ctors of Faith and Godlineſs.</hi> And good and re<g ref="char:EOLhyphen"/>ligious Magiſtrates have ſtill, as they have ſeen prudent occaſion, taken upon them by Mulcts, or Impriſonments, or the like <hi>moderate puniſh<g ref="char:EOLhyphen"/>ments to reclaim the perverſe, and re<g ref="char:EOLhyphen"/>fractory. Thus</hi>
+               <note n="*" place="margin">Contra Creſcon. l <hi>3.51.</hi> in hoc Reges, ſicut eis praecipi<g ref="char:EOLhyphen"/>tur, Deo ſerviunt, ſi in ſuo Reg<g ref="char:EOLhyphen"/>no bona jubeant, mala prohibe<g ref="char:EOLhyphen"/>ant, non ſolum quae pertinent ad humanam ſocietatem, ve<g ref="char:EOLhyphen"/>rum etiam ad divinam Religi<g ref="char:EOLhyphen"/>onem.</note> 
+               <hi>St. Auguſtine de<g ref="char:EOLhyphen"/>clares himſelf, that Kings are to com<g ref="char:EOLhyphen"/>mand good things, and forbid evil, not only in Relation to civil Society, but in order to Religion.</hi> And again, writing to <hi>Emeritus</hi> the Donatiſt, he ſayes<note n="(a)" place="margin">Ep. 164. nam et ter<g ref="char:EOLhyphen"/>renae poteſtates cum Schiſ<g ref="char:EOLhyphen"/>maticos perſequuntur ea re<g ref="char:EOLhyphen"/>gula ſe defendunt, quia dicit Apoſtolus, qui poteſtati re<g ref="char:EOLhyphen"/>ſiſtit, Dei ordinationi re<g ref="char:EOLhyphen"/>ſiſtit, non enim fruſtra gla<g ref="char:EOLhyphen"/>dium portat.</note> 
+               <hi>when the Civil power puniſh<g ref="char:EOLhyphen"/>eth Schiſmaticks, it hath a warrant from an Apoſtolical Rule.</hi> Thus St. <hi>Je<g ref="char:EOLhyphen"/>rome,</hi>
+               <pb n="22" facs="tcp:152195:14"/>ſpeaking of the Kingly and Prieſtly pow<g ref="char:EOLhyphen"/>er ſays of the former,<note n="(b)" place="margin">Hieron. in Epitaph. nepot. Ep. 3. ille nolentibus prae<g ref="char:EOLhyphen"/>eſt, hic volentibus, ille ter<g ref="char:EOLhyphen"/>rore ſubjicit, hic ſervituti donatur.</note> 
+               <hi>the King Governs, whether men will or no, he ſub<g ref="char:EOLhyphen"/>dues them by Terrour.</hi> And thus Hiſto<g ref="char:EOLhyphen"/>ry tells us of many good Chriſtian Magiſtrates, that have exerciſed this power for the good of Religion. <hi>Euſebius</hi> ſays, that <hi>Conſtantine</hi> for this reaſon uſed to call himſelf,<note n="(c)" place="margin">Euſebius de vita <hi>Conſtant.</hi> lib 4. cap. 24. vos intra Ec<g ref="char:EOLhyphen"/>cleſiam, ego extra Eccleſi<g ref="char:EOLhyphen"/>am, Epiſcopus a Deo conſti<g ref="char:EOLhyphen"/>tutus ſum.</note> 
+               <hi>A Biſhop without the Church:</hi> and <hi>Sozomon</hi> reports of the ſame <hi>Conſtantine,</hi> that he cut off unprofitable Queſtions to pre<g ref="char:EOLhyphen"/>vent Schiſms, in the Church. And <hi>Valentinian</hi> ſet a Fine upon the head of <hi>Chronopius,</hi> and inflicted diverſe Puniſhments upon <hi>
+                  <g ref="char:V">Ʋ</g>rſicinus, Rufus,</hi> and others, for making Schiſms to the diſturbance of the Publick Peace. <hi>Nazianzen</hi> had once obtained ſome kind of Toleration for the Sect of the <hi>Apollinariſts,</hi> but when he ſaw how they abuſed it, he write afterwards ſharply to the Preſident, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, your indulgence was un<g ref="char:EOLhyphen"/>ſeaſonable, ſuch men as theſe ought not to be treated any longer with Gentlenſs. I will ſum up this, with that of Mr. <hi>Calvin,</hi> not that I think his Authority ſo great, as the fore<g ref="char:EOLhyphen"/>cited, but becauſe, perhaps his Opinion may
+<pb n="23" facs="tcp:152195:14"/>prevail with ſome, where the reſt would not have been received<note n="*" place="margin">Calvin. Harm. Evang. in Luc. 14.23. Interea non im<g ref="char:EOLhyphen"/>probo, quod Auguſtinus hoc te ſtimonio, ſaepius contra Donatiſtas uſus eſt, ut pro<g ref="char:EOLhyphen"/>baret, piorum Principum e<g ref="char:EOLhyphen"/>dictis licitè cogi praefractos et rebelles, quia etſi volun<g ref="char:EOLhyphen"/>taria eſt fides, videmus ta<g ref="char:EOLhyphen"/>men ijs medijs utiliter doma<g ref="char:EOLhyphen"/>ri eorum pervicaciam, qui non niſi coacti parent.</note> 
+               <hi>I do not diſapprove</hi> (ſaith he) <hi>that St. Auguſtine makes uſe of this place againſt the Donatiſts, that he might prove that Stubborn and Rebellious men may Lawfully be Compell'd, for although Faith is Voluntary, yet by this means their obſtinacy is well o<g ref="char:EOLhyphen"/>vercome, who will do nothing, unleſs they are forced to it.</hi>
+            </p>
+            <p>Now let the Presbyterian judge, whether it be not fitting, that if men will not be reclaim<g ref="char:EOLhyphen"/>ed one way, they ſhould be reſtrained ano<g ref="char:EOLhyphen"/>ther, when moreover the Supream Authority, and the Law of the Nation requires it. In<g ref="char:EOLhyphen"/>deed let every Wiſe Man judge, whether the Magiſtrate does not then moſt judiciouſ<g ref="char:EOLhyphen"/>ly act up to the foremention'd Rule of the Text, in doing as he in Prudence might de<g ref="char:EOLhyphen"/>ſire to be done by, when he applies the moſt Proper Remedy to the Diſtemper; for many will hearken to the Rod, that would not have liſtned to the Inſtruction, <hi>although ſeven wiſe men ſhould have render'd a Reaſon.</hi> Eſpecially ſuch as act out of Intereſt more than Conſcience, and there has been, we all
+<pb n="24" facs="tcp:152195:15"/>know, (I wiſh I could ſay, that there were not ſtill,) a Party in the Land, that carry on their Deſigns by Masks of Piety, and Shews of Re<g ref="char:EOLhyphen"/>ligion, <hi>a forni of godlineſs without the power,</hi> Grace without Morality, or at beſt, <hi>a zeal with<g ref="char:EOLhyphen"/>out knowledge.</hi> Let not us imitate them in theſe, but if we are Wiſe, let us learn Diligence from them in our Honeſt Undertakings. Alas! muſt I ſay it, we want Activity, we want Zeal, we truſt a Cauſe, and we truſt a Religion, that God will defend his Church, and preſerve our King, and truly ſo he has hitherto done by Miracle; but we muſt take heed, how we tempt Providence by the neglect of ordi<g ref="char:EOLhyphen"/>nary means, leſt if Induſtry forſake us, ſuc<g ref="char:EOLhyphen"/>ceſs do alſo fail; for uſually thoſe two go together. And 'tis pity, it ſhould always be ſeen, that <hi>the Children, of this World are Wiſer in their Generation than the Children of Light.</hi> I ſpeak not this with the leaſt thought of a reflection upon the Honourable Judges, or other Subordinate Miniſters of Juſtice here preſent, whoſe endeavours have been con<g ref="char:EOLhyphen"/>ſtant and uninterrupted in the Service of their King and Country, but I ſpeak to excite others to become Imitators of their Steddi<g ref="char:EOLhyphen"/>neſs; and in their ſeveral capacities to be
+<pb n="25" facs="tcp:152195:15"/>Active and Faithful, true to the King, true to the Laws, true to their Oaths, and true to their own Conſciences, and if all men in any Publick Employ would be but thus far careful, it would, by the Grace of God, put an end at length to ſuch <hi>Boutefeus</hi> in Church and State, as <hi>turn Religion into Rebellion, and Faith into Faction,</hi> which have now for above theſe Hundred Years (ſome, or more of them) infeſted this Realm; that, what neither the length of time, or the indulgence of our Kings, or the induſtry of the Regular Paſtors has been able to bring to paſs; the wholſom Execution of Laws might perfect and con<g ref="char:EOLhyphen"/>ſummate. <hi>'Tis not the Puniſhment that makes the Martyr, but the Cauſe,</hi> was long ago tru<g ref="char:EOLhyphen"/>ly ſaid, and no man is now required by the Law to deny God, to Burn his Bible, or to do Sacrifice to Idols, as in the Primi<g ref="char:EOLhyphen"/>tive Perſecutions. And the Government may truly waſh it's Hands, and ſay with St. <hi>Peter, who is he, that will harm you, if you be follow<g ref="char:EOLhyphen"/>ers of that which is good?</hi> But if any man will ſuffer as <hi>an evil doer, or as a buſy body in other mens matters,</hi> who will have Reaſon to pity him? Much leſs, ſince the late Hor<g ref="char:EOLhyphen"/>rid Fanatical Conſpiracy has ſurely opened
+<pb n="26" facs="tcp:152195:16"/>every Eye that was not before wilfully clo<g ref="char:EOLhyphen"/>ſed, ſo as to make it ſee the danger of to<g ref="char:EOLhyphen"/>lerating any ſuch Religion in the State, whoſe very Principles do abet and encourage Re<g ref="char:EOLhyphen"/>bellion; as I am ſure the greateſt Part of our Proteſtant Recuſants (if not all of them) do; as much as thoſe of the Jeſuited Ro<g ref="char:EOLhyphen"/>maniſts. But can that be True Religion, that teaches Reſiſtance to Lawful Powers, no, it is as impoſſible, as it would have been for <hi>Chriſt,</hi> who was all Suffering, to have held Com<g ref="char:EOLhyphen"/>munion with <hi>Belial,</hi> who is ſo called, be<g ref="char:EOLhyphen"/>cauſe he would be without Yoak.</p>
+            <p>Conſider then, Gentlemen, this Rule in the Text, and apply it to all it's due applicati<g ref="char:EOLhyphen"/>ons; 'tis a large and an extenſive Rule, it takes in all Orders and Degrees of Men, yea it concerns not only time preſent, but it has an Eye to Generations yet to come. Conſider, and let it make you, firſt to do by the King, as, Reaſon will tell you, every good Subject ought to do, aſſiſt to the ut<g ref="char:EOLhyphen"/>termoſt in the Execution of his Laws, and in the Defence of his Majeſties Perſon, and all his Juſt Prerogatives, againſt the Turbu<g ref="char:EOLhyphen"/>lent and Seditious. Let it make you do by your Country, what is the Part of true <hi>Patriots,</hi>
+               <pb n="27" facs="tcp:152195:16"/>and not of Popular pretending ones; ſtudy to quiet and appeaſe the leaſt Fermentations in the minds of the Heady People, and quaſh the firſt tendencies to Faction, but not ſtand at the Helm and Steer, or give Aim as it were to them, who of themſelves are alrea<g ref="char:EOLhyphen"/>dy too much given to Change. Let it make you do by your ſelves according to the Prime Law of Nature, endeavour by your Vigilance and Prudence to preſerve thoſe Lives, which his Majeſty in his Declaration tells you, were not long ſince deſigned for a <hi>Maſſacre.</hi> Let it make you do by Poſteri<g ref="char:EOLhyphen"/>ty, what they may alſo juſtly claim, trans<g ref="char:EOLhyphen"/>mit to them the Rights and Libertys of Eng<g ref="char:EOLhyphen"/>liſh Free-born Subjects, which Rebellion has ever invaded, when it moſt pretended to aſ<g ref="char:EOLhyphen"/>ſert: And the ſoberly Reformed Proteſtant Religion, which the Schiſm has ever diſho<g ref="char:EOLhyphen"/>nour'd, when it moſt pretended to Profeſs.</p>
+            <p>But this indeed is Gods Work, yours on<g ref="char:EOLhyphen"/>ly the endeavour. Let us therefore Pray unto him, that he will preſerve our Church, and King, that the Gates of Hell may never prevail againſt the one: And that neither the Counſels of any State <hi>Achitophel,</hi> or the Re<g ref="char:EOLhyphen"/>bellion
+<pb n="28" facs="tcp:152195:17" rendition="simple:additions"/>of an <hi>Abſalom,</hi> or the Maledictions of a <hi>Shimei,</hi> may ever proſper againſt the other. <hi>Which God of his Infinite Mercy grant, through the Merits of his Son Jeſus Chriſt, to whom with the Father and Holy Spirit be aſcribed all Honour and Glory now and for ever.</hi> Amen.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
